@@ -1,4 +1,4 @@
-#STATS507
+# STATS507
 
 This is a github repository which I used for course STATS507
 
