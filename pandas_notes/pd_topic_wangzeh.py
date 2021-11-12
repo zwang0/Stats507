@@ -3,11 +3,7 @@
 
 # ## Imports
 
-import numpy as np
 import pandas as pd
-import matplotlib.pyplot as plt
-from IPython.core.display import display, HTML
-from scipy.stats import ttest_ind, chi2_contingency, norm, beta, bernoulli
 
 # ## Question 0 - Topics in Pandas [25 points]
 
